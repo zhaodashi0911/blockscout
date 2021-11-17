@@ -1,6 +1,7 @@
 ## Current
 
 ### Features
+- [#4924](https://github.com/blockscout/blockscout/pull/4924) - Add daily bytecode verifcation to prevent metamorphic contracts vulnerablity
 
 ### Fixes
 
